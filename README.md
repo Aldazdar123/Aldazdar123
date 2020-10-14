@@ -1,6 +1,6 @@
 <img src="skills.png" width=600/>
 <hr/>
-<b><i align="center">Momen Alany</b></i>
+<h1 align="center"><i>Momen Alany</i><h1>
 
 <h2>What am I?</h2>
 <ul>
