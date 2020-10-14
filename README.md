@@ -1,16 +1,6 @@
-<style>
-img {
- display:block;
- margin-left:auto;
- margin-right:auto;
- }
- h1 {
- font-style:italic;
- }
-</style>
 <img src="skills.png" width=600/>
 <hr/>
-<h1 align="center"> Momen Alany </h1>
+<b><i align="center">Momen Alany</b></i>
 
 <h2>What am I?</h2>
 <ul>
