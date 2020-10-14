@@ -1,4 +1,4 @@
-<img src="skills.png" width=700/>
+<img src="skills.png" width=500/>
 <hr/>
 <h1 align="center"> Momen Alany </h1>
 
