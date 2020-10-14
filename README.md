@@ -2,14 +2,14 @@
 <hr/>
 <h1 align="center"><i>Momen Alany</i><h1>
 
-<h2>What am I?</h2>
+<h2>Who am I?</h2>
 <ul>
  <li>Web designer</li>
 <li>Python developer</li>
 <li>Image designer</li>
 <li>Audio & Video editor</li>
 </ul>
-<h2>What I am <b>NOT</b></h2>
+<h2>Who I am <b>NOT</b></h2>
 <ul>
 <li>FB hacker</li>
 <li>Wifi hacker</li>
