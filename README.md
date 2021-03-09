@@ -17,5 +17,3 @@
 </ul></h4>
 <h2 align="center"><i>"Do what you should do and leave the rest for your god"</i><h2>
 
-
-[**Infinity codes discord server**](https://discord.gg/vAMNHBF)
